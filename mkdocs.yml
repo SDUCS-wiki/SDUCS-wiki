@@ -1,0 +1,93 @@
+site_name: SDUCS wiki
+site_description: SDUCS Wiki 是一个介绍山东大学计算机学院的站点
+site_author: SDUCS Wiki Team
+site_url: https://sducs-wiki.oops-sdu.cn/
+strict: false
+
+repo_name: 'SDUCS-wiki/SDUCS-wiki'
+repo_url: 'https://github.com/SDUCS-wiki/SDUCS-wiki'
+
+copyright: 'Copyright &copy; 2021 SDUCS Wiki Team'
+
+nav:
+  - 简介:
+    - index: index.md
+  - 学生组织:
+    - 学院学生会: student_unions/union.md
+    - Oops社团: 
+      - 主页: student_unions/oops.md
+    - 兴趣开放实验室: student_unions/openlab.md
+    - ACM实验室: student_unions/acm.md
+    - CCF山东大学（青岛）分会: student_unions/ccf-qd.md
+    - SDUOJ运维组: student_unions/sduoj.md
+    - 网络安全学生实践基地: student_unions/safety.md
+  - 科研实验室:
+    - 交叉研究中心: labs/irc.md
+    - 智能媒体实验室: labs/ilearn.md
+  - 课程相关:
+    - 计算机科学与技术学科: courses/cs.md
+    - 人工智能实验班: courses/ai.md
+    - 大数据实验班: courses/data.md
+    - 泰山学堂计算机取向: courses/tsxt.md
+    - 通识必修类课程简介: courses/tongshi.md #大学英语等
+    - 专业核心课简介: courses/zhuanye.md #计网等
+    - 实验课简介: courses/shiyan.md #计组等
+    - 其他课程简介: courses/others.md
+    - 选课指南: courses/guide.md
+  - 新生必看:
+    - 学校概况: freshmen/index.md
+    # - xxxx:
+  - 竞赛相关:
+    - 竞赛保研政策: competition/policy.md
+    - ACM/ICPC: competition/acm.md
+    - 数学建模: competition/modeling.md
+    - OOPO杯: competition/oppo.md
+    - 操作系统大赛: competition/os.md
+    - 硬件设计大赛: competition/hardware.md
+  - 学习相关:
+    - 保研政策: learn/policy.md
+    - 菁英班: learn/jingying.md
+    - 泰山学堂: learn/tsxt.md
+    - 绩点的计算与排名: learn/rules.md
+
+theme:
+  name: material
+  search_index_only: true
+  features:
+    - navigation.tabs
+
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.progressbar
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: math
+          class: arithmatex
+          format: !!python/name:pymdownx.arithmatex.fence_mathjax_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
