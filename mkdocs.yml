@@ -49,6 +49,12 @@ nav:
     - 菁英班: learn/jingying.md
     - 泰山学堂: learn/tsxt.md
     - 绩点的计算与排名: learn/rules.md
+  - 工具使用:
+    - DevCPP: tools/devcpp.md
+    - Clion: tools/clion.md
+    - idea: tools/idea.md
+    - Anaconda: tools/anaconda.md
+
 
 theme:
   name: material
