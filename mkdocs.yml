@@ -50,9 +50,9 @@ nav:
     - 泰山学堂: learn/tsxt.md
     - 绩点的计算与排名: learn/rules.md
   - 工具使用:
-    - DevCPP: tools/devcpp.md
+    - Dev Cpp: tools/devcpp.md
     - Clion: tools/clion.md
-    - idea: tools/idea.md
+    - IntelliJ IDEA: tools/idea.md
     - Anaconda: tools/anaconda.md
 
 
