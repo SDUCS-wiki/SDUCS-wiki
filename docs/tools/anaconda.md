@@ -8,7 +8,7 @@
 
 - 前往 [Anaconda ](https://www.anaconda.com/products/individual)官网下载 `Anaconda Individual Edition` (`Anaconda`个人版)
 
-  ![image-20210808224525625](../images/image-20210808224525625.png)
+  ![image-20210808224525625](https://i.loli.net/2021/08/26/9cFmEkphZBl2Wrj.png)
 
 ### 1.2 安装
 
@@ -16,13 +16,13 @@
 
 - 按照以下步骤进行安装
 
-  ![image-20210808225322047](../images/image-20210808225322047.png)
+  ![image-20210808225322047](https://i.loli.net/2021/08/26/LJb7V3i1BZzCUM5.png)
 
-  ![image-20210808225358727](../images/image-20210808225358727.png)
+  ![image-20210808225358727](https://i.loli.net/2021/08/26/O1mIBeEQhSWl9Cy.png)
 
-  ![image-20210808225435823](../images/image-20210808225435823.png)
+  ![image-20210808225435823](https://i.loli.net/2021/08/26/Z7dm8oxcC6aDwPq.png)
 
-  ![image-20210808225632267](../images/image-20210808225632267.png)
+  ![image-20210808225632267](https://i.loli.net/2021/08/26/IqKhLSeRBdMb1Pa.png)
 
 - 关键安装步骤已经完成，剩下步骤可一路`Next`/`Finish`
 
@@ -30,13 +30,13 @@
 
 - 单击`Windows徽标键`，在键盘上输入`path`
 
-  ![image-20210809142027193](../images/image-20210809142027193.png)
+  ![image-20210809142027193](https://i.loli.net/2021/08/26/z7rSAEjXwV5Zp24.png)
 
 - 点击 `环境变量`，在`系统变量`中找到`Path`，双击`Path`，点击`浏览`
 
-  ![image-20210809142241413](../images/image-20210809142241413.png)
+  ![image-20210809142241413](https://i.loli.net/2021/08/26/tbGYJeuRT5K4wyN.png)
 
-  ![image-20210809143136490](../images/image-20210809143136490.png)
+  ![image-20210809143136490](https://i.loli.net/2021/08/26/Ka8WZejELnmQdvz.png)
 
 - 依次找到下述文件夹，并添加，然后确认保存并`重启`
 
