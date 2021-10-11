@@ -7,11 +7,12 @@
 ③	线性代数
 # 二、学习方法
 ①高等数学的话，山大用的是自己编写的教材
-
+![image](https://github.com/SDUCS-wiki/SDUCS-wiki/blob/main/docs/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210808224048.jpg)
 	 
 上课认真听讲，下课认真完成作业（这会关系到你的平时分），认真完成课后题足以在期末考试时候拿到95+的成绩
+同时由于微积分是一门非常重要的学科，无论是在机器学习还是以后打算攻读研究生，都是很重要的基础
 如果学有余力的同学可以配套使用以下练习题
- 
+ ![image](https://github.com/SDUCS-wiki/SDUCS-wiki/blob/main/docs/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210808224259.jpg)
 
 
 
@@ -21,6 +22,7 @@
 	
 这门课程最大限度的可以让大一的新生们体验到计算机专业的特点，如：自学，debug，面向csdn编程等
 假期想要自学的话可以参考以下书籍
+![image](https://github.com/SDUCS-wiki/SDUCS-wiki/blob/main/docs/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210808224609.jpg)
  
 这本书应该是世面上能找的到的最适合入门的书籍了，非常适合入门
 
